@@ -22,7 +22,7 @@
 				"id": "cappuccino-vscode-dark-color-theme",
 				"label": "Cappuccino's Theme",
 				"uiTheme": "vs-dark",
-				"path": "./src/cappuccino-vscode-color-theme.json"
+				"path": "./Source/CappuccinoVSCodeTheme.json"
 			}
 		]
 	},

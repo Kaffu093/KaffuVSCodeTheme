@@ -1,4 +1,6 @@
 {
+	"$schema": "vscode://schemas/color-theme",
+
 	// Name of the theme
 	"name": "Cappuccino's Theme",
 
