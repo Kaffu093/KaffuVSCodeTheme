@@ -4,10 +4,11 @@
 	"version": "2.0.0",
 	"tasks": [
 		{
-			"label": "Publicar",
+			"label": "Publish",
 			"type": "shell",
 			"command": "vsce publish",
 			"problemMatcher": []
 		}
 	]
 }
+

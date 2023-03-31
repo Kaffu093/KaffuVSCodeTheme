@@ -10,6 +10,15 @@
 			"type": "extensionHost",
 			"request": "launch",
 			"args": ["--extensionDevelopmentPath=${workspaceFolder}"]
+		},
+		{
+			"name": "Publish",
+			"request": "launch",
+			"runtimeArgs": ["run-script", "publish"],
+			"runtimeExecutable": "npm",
+			"skipFiles": ["<node_internals>/**"],
+			"type": "node"
 		}
 	]
 }
+

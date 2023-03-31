@@ -647,10 +647,10 @@
 		"breadcrumbPicker.background": "#001b3d",
 
 		// Snippets colors
-		"editor.snippetTabstopHighlightBackground": "#a3c9ff",
-		"editor.snippetTabstopHighlightBorder": "#a3c9ff",
-		"editor.snippetFinalTabstopHighlightBackground": "#a3c9ff",
-		"editor.snippetFinalTabstopHighlightBorder": "#a3c9ff",
+		"editor.snippetTabstopHighlightBackground": "#a3c9ff70",
+		"editor.snippetTabstopHighlightBorder": "#00000000",
+		"editor.snippetFinalTabstopHighlightBackground": "#a3c9ff70",
+		"editor.snippetFinalTabstopHighlightBorder": "#00000000",
 
 		// Symbol Icons colors
 		"symbolIcon.arrayForeground": "#f5ffc5",
@@ -769,12 +769,12 @@
 		"terminal.findMatchBorder": "#a3c9ff",
 		"terminal.findMatchHighlightBackground": "#003d6c",
 		"terminal.findMatchHighlightBorder": "#a3c9ff",
-		"terminal.hoverHighlightBackground": "#003d6c",
+		"terminal.hoverHighlightBackground": "#003d6c70",
 		"terminal.inactiveSelectionBackground": "#003d6c",
 		"terminal.selectionBackground": "#003d6c",
 		"terminal.selectionForeground": "#a3c9ff",
 		"terminal.tab.activeBorder": "#a3c9ff",
-		"terminalCommandDecoration.defaultBackground": "#003d6c",
+		"terminalCommandDecoration.defaultBackground": "#0060ab",
 		"terminalCommandDecoration.errorBackground": "#d93669",
 		"terminalCommandDecoration.successBackground": "#55a30a",
 		"terminalCursor.background": "#a3c9ff",

@@ -37,3 +37,8 @@ All notable changes to this project will be documented in this file.
 ## 1.1.3
 
 - Changed GitHub repository URL
+
+## 1.1.4
+
+- Changed Terminal Hover Background color
+- Changed Terminal Default Foreground Decoration color
