@@ -23,7 +23,7 @@ If you want to contribute to this project, you can do it by forking this reposit
 
 ## License 📄
 
-This project is under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/Cappuccino093/CappuccinoVSCodeTheme/main/Images/LICENSE) file for details.
+This project is under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/Cappuccino093/CappuccinoVSCodeTheme/main/Images/LICENSE.md) file for details.
 
 ## Enjoy! 💙
 
