@@ -8,11 +8,14 @@ My personal theme for Visual Studio Code! Based on the blue color because it's m
 
 ## Compatibility ⚠️
 
-I have tested the theme with the majority of languages and it works perfectly. If you find any error, please let me know!
+I have tested the theme with the majority of languages and it works perfectly.
+If you find any error, please let me know!
 
 ## Contributing 🤝
 
-If you want to contribute to this project, you can do it by forking this repository and making a pull request with your changes. I will be grateful if you do it!
+If you want to contribute to this project, you can do it by forking this
+repository and making a pull request with your changes. I will be grateful if
+you do it!
 
 ## Tools 🛠️
 
@@ -23,7 +26,9 @@ If you want to contribute to this project, you can do it by forking this reposit
 
 ## License 📄
 
-This project is under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/Cappuccino093/CappuccinoVSCodeTheme/main/Images/LICENSE.md) file for details.
+This project is under the MIT License -
+see the [LICENSE.md](https://raw.githubusercontent.com/Cappuccino093/CappuccinoVSCodeTheme/main/LICENSE.md)
+file for details.
 
 ## Enjoy! 💙
 
