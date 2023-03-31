@@ -647,9 +647,9 @@
 		"breadcrumbPicker.background": "#001b3d",
 
 		// Snippets colors
-		"editor.snippetTabstopHighlightBackground": "#a3c9ff70",
+		"editor.snippetTabstopHighlightBackground": "#a3c9ff38",
 		"editor.snippetTabstopHighlightBorder": "#00000000",
-		"editor.snippetFinalTabstopHighlightBackground": "#a3c9ff70",
+		"editor.snippetFinalTabstopHighlightBackground": "#a3c9ff38",
 		"editor.snippetFinalTabstopHighlightBorder": "#00000000",
 
 		// Symbol Icons colors
