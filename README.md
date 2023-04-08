@@ -4,7 +4,7 @@
 
 My personal theme for Visual Studio Code! Based on the blue color because it's my favorite color!
 
-![Preview image](https://raw.githubusercontent.com/Cappuccino093/CappuccinoVSCodeTheme/main/Images/Preview.png)
+![Preview image](https://cappuccinotheme.blob.core.windows.net/images/PreviewVSCode.png)
 
 ## Compatibility ⚠️
 
@@ -26,9 +26,7 @@ you do it!
 
 ## License 📄
 
-This project is under the MIT License -
-see the [LICENSE.md](https://raw.githubusercontent.com/Cappuccino093/CappuccinoVSCodeTheme/main/LICENSE.md)
-file for details.
+This project is under the MIT License, see [License File](https://cappuccinotheme.blob.core.windows.net/documents/License.md) for more information.
 
 ## Enjoy! 💙
 

@@ -46,3 +46,7 @@ All notable changes to this project will be documented in this file.
 ## 1.1.5
 
 - Changed Snippet Tabstop Highlight Background color to a more accessible color
+
+## 1.1.6
+
+- Changed some colors to match better with the theme
