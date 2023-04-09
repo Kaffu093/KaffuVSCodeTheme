@@ -50,3 +50,7 @@ All notable changes to this project will be documented in this file.
 ## 1.1.6
 
 - Changed some colors to match better with the theme
+
+## 1.2.0
+
+- Changed files and names of the project
