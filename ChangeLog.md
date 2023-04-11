@@ -57,4 +57,8 @@ All notable changes to this project will be documented in this file.
 
 ## 1.2.1
 
-- Debug colors changed
+- Terminal colors changed
+
+## 1.2.2
+
+- Black terminal color changed
