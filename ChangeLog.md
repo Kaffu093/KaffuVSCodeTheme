@@ -70,3 +70,7 @@ All notable changes to this project will be documented in this file.
 ## 1.3.1
 
 - "storage.type" had the wrong color
+
+## 1.3.2
+
+- Matching Visual Studio Theme version
