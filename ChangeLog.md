@@ -62,3 +62,7 @@ All notable changes to this project will be documented in this file.
 ## 1.2.2
 
 - Black terminal color changed
+
+## 1.3.0
+
+- Changed colors of Git decorations to avoid confusion with errors and warnings in the editor
