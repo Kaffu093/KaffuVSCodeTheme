@@ -925,8 +925,7 @@
 				"variable.other.object",
 				"markup.heading",
 				"entity.other.attribute-name.class",
-				"entity.other.attribute-name.id",
-				"storage.type"
+				"entity.other.attribute-name.id"
 			],
 			"settings": {
 				"foreground": "#0379d5"
@@ -941,7 +940,14 @@
 		},
 		{
 			"name": "Keywords",
-			"scope": ["keyword", "keyword.control", "keyword.other", "storage.modifier", "variable.language.this"],
+			"scope": [
+				"keyword",
+				"keyword.control",
+				"keyword.other",
+				"storage.modifier",
+				"storage.type",
+				"variable.language.this"
+			],
 			"settings": {
 				"foreground": "#bd53fa"
 			}
@@ -1015,3 +1021,4 @@
 		}
 	]
 }
+

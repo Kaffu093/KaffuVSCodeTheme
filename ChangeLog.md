@@ -66,3 +66,7 @@ All notable changes to this project will be documented in this file.
 ## 1.3.0
 
 - Changed colors of Git decorations to avoid confusion with errors and warnings in the editor
+
+## 1.3.1
+
+- "storage.type" had the wrong color
