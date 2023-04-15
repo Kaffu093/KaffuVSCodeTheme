@@ -78,3 +78,7 @@ All notable changes to this project will be documented in this file.
 ## 1.3.3
 
 - Match Visual Studio Theme version
+
+## 1.4.0
+
+- Changed colors of Mini Map Slider to be more visible
