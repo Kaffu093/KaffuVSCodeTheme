@@ -1,5 +1,8 @@
 # Cappuccino's Theme! ☕
 
+## Road to 2.0
+Check https://github.com/Cappuccino093/CappuccinoVSCodeTheme/tree/Feature/2.0Update!
+
 ## Description 📝
 
 My personal theme for Visual Studio Code! Based on the blue color because it's my favorite color!
