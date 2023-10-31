@@ -21,6 +21,9 @@ If you want to open a pull request, you can follow the next steps:
 Also, I recommend you to use the appropriated tools that I used to create the theme,
 you can find them in the [Tools](ReadMe.md#tools-🛠️) section.
 
+This theme is under the MIT License, this means that you can use it for your own projects,
+if you want to give me credit, I would appreciate it.
+
 ## Tools 🛠️
 
 This is a list of the tools that I used to create the theme:
@@ -37,15 +40,11 @@ This is a list of the tools that I used to create the theme:
 
     -   [Yo Code](https://github.com/microsoft/vscode-generator-code) to generate the template of the theme
     -   [Visual Studio Code Extension Manager](https://github.com/microsoft/vscode-vsce) to manage the theme
-    -   [Prettier](https://prettier.io/) to format the code
-    -   [ESLint](https://eslint.org/) to lint the JavaScript/TypeScript code
-    -   [markdownlint](https://github.com/DavidAnson/markdownlint) to lint the Markdown files
+    -   [Prettier](https://github.com/prettier/prettier) to format the code
 
 -   Extensions
-    -   [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
     -   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
     -   [Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
-    -   [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
 ## License 📄
 

@@ -1,4 +1,6 @@
-/** @type {import("C:\\Users\\Cappuccino\\AppData\\Roaming\\npm\\node_modules\\prettier").Config} */
+import { Options } from "prettier";
+
+/** @type { Options } */
 const config = {
 	printWidth: 120,
 	tabWidth: 4,
