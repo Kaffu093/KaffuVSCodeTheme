@@ -1,39 +1,56 @@
 # Cappuccino's Theme! ☕
 
-## Road to 2.0
-Check https://github.com/Cappuccino093/CappuccinoVSCodeTheme/tree/Feature/2.0Update!
+My personal theme for Visual Studio Code, based on the blue color because it's my favorite color! 💙
 
-## Description 📝
+![Theme Preview](https://cappuccinotheme.blob.core.windows.net/images/CappuccinoVSCodeThemePreview.png)
 
-My personal theme for Visual Studio Code! Based on the blue color because it's my favorite color!
+## Compatibility 📋
 
-![Preview image](https://cappuccinotheme.blob.core.windows.net/images/PreviewVSCode.png)
-
-## Compatibility ⚠️
-
-I have tested the theme with the majority of languages and it works perfectly.
-If you find any error, please let me know!
+I have tested the theme with the majority of the languages that I use, but if you find any problem with the theme,
+please open an issue or a pull request. See the [Contributing](ReadMe.md#contributing-🤝) section for more information.
 
 ## Contributing 🤝
 
-If you want to contribute to this project, you can do it by forking this
-repository and making a pull request with your changes. I will be grateful if
-you do it!
+If you want to contribute to the project, you can do it by opening an issue or a pull request.
+If you want to open a pull request, you can follow the next steps:
+
+1. Fork the project
+2. Create a new branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push the changes (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+Also, I recommend you to use the appropriated tools that I used to create the theme,
+you can find them in the [Tools](ReadMe.md#tools-🛠️) section.
+
+This theme is under the MIT License, this means that you can use it for your own projects,
+if you want to give me credit, I would appreciate it.
 
 ## Tools 🛠️
 
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Yo Code - Extension and Customization Generator](https://github.com/Microsoft/vscode-generator-code)
-- [Fluent UI Color Palette](https://developer.microsoft.com/en-us/fluentui#/styles/web/colors/theme-slots#color-palettes)
-- [Material Theme Builder](https://m3.material.io/theme-builder#/custom)
+This is a list of the tools that I used to create the theme:
+
+-   Operating System
+
+    -   [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) as my main OS
+
+-   IDE/Text Editor
+
+    -   [Visual Studio Code](https://code.visualstudio.com/) as my main IDE/Text Editor and which the theme is for
+
+-   NPM Packages
+
+    -   [Yo Code](https://github.com/microsoft/vscode-generator-code) to generate the template of the theme
+    -   [Visual Studio Code Extension Manager](https://github.com/microsoft/vscode-vsce) to manage the theme
+    -   [Prettier](https://github.com/prettier/prettier) to format the code
+
+-   Extensions
+    -   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+    -   [Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
 ## License 📄
 
-This project is under the MIT License, see [License File](https://cappuccinotheme.blob.core.windows.net/documents/License.md) for more information.
-
-## Enjoy! 💙
-
-Feel free to use this theme and if you like it, please give it a star!
+This project is under the MIT License, see [License File](./License.md) for more information.
 
 ---
 

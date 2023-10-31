@@ -1,4 +1,20 @@
 {
-	"cSpell.ignoreWords": ["Breadcumbs", "Forground", "Parens", "Stackframe", "sqltools"],
-	"cSpell.words": ["ansi", "ecma", "linebreak", "readwrite"]
+	"cSpell.words": [
+		"linebreak"
+	],
+	"json.schemas": [
+		{
+			"fileMatch": [
+				"package.json"
+			],
+			"url": "https://json.schemastore.org/package",
+			"schema": {
+				"properties": {
+					"name": {
+						"$comment": "suppress-name-warning"
+					}
+				}
+			}
+		}
+	]
 }
