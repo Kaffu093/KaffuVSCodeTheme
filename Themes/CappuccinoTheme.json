@@ -1,13 +1,10 @@
 {
-	// Schema
+	// Cappuccino's Theme
 	"$schema": "vscode://schemas/color-theme",
-
-	// Name of the theme
 	"name": "Cappuccino's Theme",
 
 	// Workbench colors (https://code.visualstudio.com/api/references/theme-color)
 	"colors": {
-		// Base colors
 		"focusBorder": "#00000000",
 		"foreground": "#A1BBEC",
 		"disabledForeground": "#A1BBEC70",
@@ -18,12 +15,8 @@
 		"errorForeground": "#EEACB2",
 		"icon.foreground": "#A1BBEC",
 		"sash.hoverBorder": "#18599C",
-
-		// Window border
 		"window.activeBorder": "#00000000",
 		"window.inactiveBorder": "#00000000",
-
-		// Text colors
 		"textBlockQuote.background": "#1B3F6B",
 		"textBlockQuote.border": "#00000000",
 		"textCodeBlock.background": "#1B3F6B",
@@ -31,13 +24,9 @@
 		"textLink.foreground": "#0475CF",
 		"textPreformat.foreground": "#A1BBEC",
 		"textSeparator.foreground": "#A1BBEC",
-
-		// Action colors
 		"toolbar.hoverBackground": "#193254",
 		"toolbar.hoverOutline": "#00000000",
 		"toolbar.activeBackground": "#193254",
-
-		// Button control
 		"button.background": "#18599C",
 		"button.foreground": "#A1BBEC",
 		"button.border": "#00000000",
@@ -51,14 +40,10 @@
 		"checkbox.border": "#00000000",
 		"checkbox.selectBackground": "#18599C",
 		"checkbox.selectBorder": "#00000000",
-
-		// Dropdown control
 		"dropdown.background": "#18599C",
 		"dropdown.listBackground": "#1B3F6B",
 		"dropdown.border": "#00000000",
 		"dropdown.foreground": "#A1BBEC",
-
-		// Input control
 		"input.background": "#18599C",
 		"input.border": "#00000000",
 		"input.foreground": "#A1BBEC",
@@ -76,21 +61,13 @@
 		"inputValidation.warningBackground": "#3f4c00",
 		"inputValidation.warningBorder": "#00000000",
 		"inputValidation.warningForeground": "#cef13b",
-
-		// Scrollbar control
 		"scrollbar.shadow": "#00000000",
 		"scrollbarSlider.activeBackground": "#1267B5",
 		"scrollbarSlider.background": "#18599C",
 		"scrollbarSlider.hoverBackground": "#1267B5",
-
-		// Badge
 		"badge.foreground": "#1B3F6B",
 		"badge.background": "#A1BBEC",
-
-		// Progress bar
 		"progressBar.background": "#18599C",
-
-		// Lists and trees
 		"list.activeSelectionBackground": "#193254",
 		"list.activeSelectionForeground": "#A1BBEC",
 		"list.activeSelectionIconForeground": "#A1BBEC",
@@ -122,8 +99,6 @@
 		"tree.inactiveIndentGuidesStroke": "#1B3F6B",
 		"tree.tableColumnsBorder": "#18599C",
 		"tree.tableOddRowsBackground": "#1B3F6B",
-
-		// Activity Bar
 		"activityBar.background": "#17263E",
 		"activityBar.dropBorder": "#00000000",
 		"activityBar.foreground": "#A1BBEC",
@@ -134,12 +109,8 @@
 		"activityBar.activeBorder": "#1B3F6B",
 		"activityBar.activeBackground": "#193254",
 		"activityBar.activeFocusBorder": "#00000000",
-
-		// Profiles
 		"profileBadge.background": "#A1BBEC",
 		"profileBadge.foreground": "#1B3F6B",
-
-		// Side Bar
 		"sideBar.background": "#193254",
 		"sideBar.foreground": "#A1BBEC",
 		"sideBar.border": "#1B3F6B",
@@ -148,8 +119,6 @@
 		"sideBarSectionHeader.background": "#17263E",
 		"sideBarSectionHeader.foreground": "#A1BBEC",
 		"sideBarSectionHeader.border": "#00000000",
-
-		// Minimap
 		"minimap.findMatchHighlight": "#193254",
 		"minimap.selectionHighlight": "#193254",
 		"minimap.errorHighlight": "#B53031",
@@ -163,8 +132,6 @@
 		"minimapGutter.addedBackground": "#604eb5",
 		"minimapGutter.modifiedBackground": "#604eb5",
 		"minimapGutter.deletedBackground": "#604eb5",
-
-		// Editor Groups & Tabs
 		"editorGroup.border": "#1B3F6B",
 		"editorGroup.dropBackground": "#193254",
 		"editorGroupHeader.noTabsBackground": "#193254",
@@ -203,8 +170,6 @@
 		"editorPane.background": "#193254",
 		"sideBySideEditor.horizontalBorder": "#00000000",
 		"sideBySideEditor.verticalBorder": "#00000000",
-
-		// Editor Colors
 		"editor.background": "#17263E",
 		"editor.foreground": "#A1BBEC",
 		"editorLineNumber.foreground": "#A1BBEC70",
@@ -318,8 +283,6 @@
 		"editorCommentsWidget.unresolvedBorder": "#00000000",
 		"editorCommentsWidget.rangeBackground": "#193254",
 		"editorCommentsWidget.rangeActiveBackground": "#193254",
-
-		// Diff editor colors
 		"diffEditor.insertedTextBackground": "#44870070",
 		"diffEditor.insertedTextBorder": "#00000000",
 		"diffEditor.removedTextBackground": "#d1343870",
@@ -332,8 +295,6 @@
 		"diffEditorGutter.removedLineBackground": "#d13438",
 		"diffEditorOverview.insertedForeground": "#448700",
 		"diffEditorOverview.removedForeground": "#d13438",
-
-		// Editor widget colors
 		"editorWidget.foreground": "#A1BBEC",
 		"editorWidget.background": "#17263E",
 		"editorWidget.border": "#1B3F6B",
@@ -366,8 +327,6 @@
 		"editorMarkerNavigationError.headerBackground": "#d13438",
 		"editorMarkerNavigationWarning.headerBackground": "#ddff55",
 		"editorMarkerNavigationInfo.headerBackground": "#0475CF",
-
-		// Peek view colors
 		"peekView.border": "#1B3F6B",
 		"peekViewEditor.background": "#17263E",
 		"peekViewEditorGutter.background": "#17263E",
@@ -383,8 +342,6 @@
 		"peekViewTitle.background": "#17263E",
 		"peekViewTitleDescription.foreground": "#A1BBEC",
 		"peekViewTitleLabel.foreground": "#A1BBEC",
-
-		// Merge conflicts colors
 		"merge.currentHeaderBackground": "#604eb5",
 		"merge.currentContentBackground": "#604eb570",
 		"merge.incomingHeaderBackground": "#9f420a",
@@ -408,8 +365,6 @@
 		"mergeEditor.changeBase.word.background": "#193254",
 		"mergeEditor.conflict.input1.background": "#d1343870",
 		"mergeEditor.conflict.input2.background": "#ddff5570",
-
-		// Panel colors
 		"panel.background": "#17263E",
 		"panel.border": "#1B3F6B",
 		"panel.dropBorder": "#1B3F6B",
@@ -422,8 +377,6 @@
 		"panelSectionHeader.background": "#17263E",
 		"panelSectionHeader.foreground": "#A1BBEC",
 		"panelSectionHeader.border": "#1B3F6B",
-
-		// Status Bar colors
 		"statusBar.background": "#18599C",
 		"statusBar.foreground": "#A1BBEC",
 		"statusBar.border": "#1B3F6B",
@@ -446,15 +399,11 @@
 		"statusBarItem.warningForeground": "#2a3400",
 		"statusBarItem.compactHoverBackground": "#193254",
 		"statusBarItem.focusBorder": "#00000000",
-
-		// Title Bar colors
 		"titleBar.activeBackground": "#17263E",
 		"titleBar.activeForeground": "#A1BBEC",
 		"titleBar.inactiveBackground": "#17263E",
 		"titleBar.inactiveForeground": "#A1BBEC",
 		"titleBar.border": "#1B3F6B",
-
-		// Menu Bar colors
 		"menubar.selectionForeground": "#A1BBEC",
 		"menubar.selectionBackground": "#193254",
 		"menubar.selectionBorder": "#00000000",
@@ -465,8 +414,6 @@
 		"menu.selectionBorder": "#00000000",
 		"menu.separatorBackground": "#1B3F6B",
 		"menu.border": "#1B3F6B",
-
-		// Command Center colors
 		"commandCenter.foreground": "#A1BBEC",
 		"commandCenter.activeForeground": "#A1BBEC",
 		"commandCenter.background": "#17263E",
@@ -475,8 +422,6 @@
 		"commandCenter.inactiveForeground": "#A1BBEC70",
 		"commandCenter.inactiveBorder": "#1B3F6B",
 		"commandCenter.activeBorder": "#1B3F6B",
-
-		// Notifications colors
 		"notificationCenter.border": "#1B3F6B",
 		"notificationCenterHeader.foreground": "#A1BBEC",
 		"notificationCenterHeader.background": "#193254",
@@ -488,13 +433,9 @@
 		"notificationsErrorIcon.foreground": "#d13438",
 		"notificationsWarningIcon.foreground": "#ddff55",
 		"notificationsInfoIcon.foreground": "#1267B5",
-
-		// Banner colors
 		"banner.background": "#17263E",
 		"banner.foreground": "#A1BBEC",
 		"banner.iconForeground": "#A1BBEC",
-
-		// Extensions colors
 		"extensionButton.prominentForeground": "#A1BBEC",
 		"extensionButton.prominentBackground": "#193254",
 		"extensionButton.prominentHoverBackground": "#193254",
@@ -508,8 +449,6 @@
 		"extensionIcon.verifiedForeground": "#6fbf2d",
 		"extensionIcon.preReleaseForeground": "#d13438",
 		"extensionIcon.sponsorForeground": "#A1BBEC",
-
-		// Quick picker colors
 		"pickerGroup.border": "#1B3F6B",
 		"pickerGroup.foreground": "#A1BBEC",
 		"quickInput.background": "#17263E",
@@ -518,18 +457,12 @@
 		"quickInputList.focusForeground": "#A1BBEC",
 		"quickInputList.focusIconForeground": "#A1BBEC",
 		"quickInputTitle.background": "#17263E",
-
-		// Keybinding label colors
 		"keybindingLabel.background": "#17263E",
 		"keybindingLabel.foreground": "#A1BBEC",
 		"keybindingLabel.border": "#1B3F6B",
 		"keybindingLabel.bottomBorder": "#1B3F6B",
-
-		// Keyboard shortcut table colors
 		"keybindingTable.headerBackground": "#17263E",
 		"keybindingTable.rowsBackground": "#17263E",
-
-		// Integrated Terminal colors
 		"terminal.background": "#17263E",
 		"terminal.border": "#1B3F6B",
 		"terminal.foreground": "#A1BBEC",
@@ -549,8 +482,6 @@
 		"terminal.ansiBrightCyan": "#5CAAE5",
 		"terminal.ansiBrightWhite": "#A0ADB2",
 		"terminal.ansiWhite": "#A0ADB2",
-
-		// Debug colors
 		"debugToolBar.background": "#301984",
 		"debugToolBar.border": "#c9beff",
 		"editor.stackFrameHighlightBackground": "#193254",
@@ -568,8 +499,6 @@
 		"debugTokenExpression.boolean": "#71C33E",
 		"debugTokenExpression.number": "#71C33E",
 		"debugTokenExpression.error": "#d13438",
-
-		// Testing colors
 		"testing.iconFailed": "#d13438",
 		"testing.iconErrored": "#d13438",
 		"testing.iconPassed": "#448700",
@@ -583,8 +512,6 @@
 		"testing.message.error.lineBackground": "#d13438",
 		"testing.message.info.decorationForeground": "#A1BBEC",
 		"testing.message.info.lineBackground": "#A1BBEC",
-
-		// Welcome page colors
 		"welcomePage.background": "#17263E",
 		"welcomePage.progress.background": "#193254",
 		"welcomePage.progress.foreground": "#A1BBEC",
@@ -593,11 +520,7 @@
 		"welcomePage.tileBorder": "#1B3F6B",
 		"walkThrough.embeddedEditorBackground": "#17263E",
 		"walkthrough.stepTitle.foreground": "#A1BBEC",
-
-		// Source Control colors
 		"scm.providerBorder": "#1B3F6B",
-
-		// Git colors
 		"gitDecoration.addedResourceForeground": "#c9beff",
 		"gitDecoration.modifiedResourceForeground": "#c9beff",
 		"gitDecoration.deletedResourceForeground": "#c9beff",
@@ -608,8 +531,6 @@
 		"gitDecoration.ignoredResourceForeground": "#A1BBEC70",
 		"gitDecoration.conflictingResourceForeground": "#d13438",
 		"gitDecoration.submoduleResourceForeground": "#A1BBEC70",
-
-		// Settings Editor colors
 		"settings.headerForeground": "#A1BBEC",
 		"settings.modifiedItemIndicator": "#A1BBEC",
 		"settings.dropdownBackground": "#17263E",
@@ -631,21 +552,15 @@
 		"settings.headerBorder": "#1B3F6B",
 		"settings.sashBorder": "#1B3F6B",
 		"settings.settingsHeaderHoverForeground": "#A1BBEC",
-
-		// Breadcumbs colors
 		"breadcrumb.foreground": "#A1BBEC",
 		"breadcrumb.background": "#17263E",
 		"breadcrumb.focusForeground": "#A1BBEC",
 		"breadcrumb.activeSelectionForeground": "#A1BBEC",
 		"breadcrumbPicker.background": "#17263E",
-
-		// Snippets colors
 		"editor.snippetTabstopHighlightBackground": "#A1BBEC38",
 		"editor.snippetTabstopHighlightBorder": "#00000000",
 		"editor.snippetFinalTabstopHighlightBackground": "#A1BBEC38",
 		"editor.snippetFinalTabstopHighlightBorder": "#00000000",
-
-		// Symbol Icons colors
 		"symbolIcon.arrayForeground": "#B09DF3",
 		"symbolIcon.booleanForeground": "#71C33E",
 		"symbolIcon.classForeground": "#0475CF",
@@ -678,8 +593,6 @@
 		"symbolIcon.typeParameterForeground": "#0475CF",
 		"symbolIcon.unitForeground": "#71C33E",
 		"symbolIcon.variableForeground": "#A1BBEC",
-
-		// Debug Icons colors
 		"debugIcon.breakpointForeground": "#A1BBEC",
 		"debugIcon.breakpointDisabledForeground": "#A1BBEC70",
 		"debugIcon.breakpointUnverifiedForeground": "#A1BBEC70",
@@ -700,45 +613,6 @@
 		"debugConsole.errorForeground": "#ffb1c8",
 		"debugConsole.sourceForeground": "#78da9d",
 		"debugConsoleInputIcon.foreground": "#78da9d",
-
-		// Notebook colors
-		"notebook.editorBackground": "#17263E",
-		"notebook.cellBorderColor": "#1B3F6B",
-		"notebook.cellHoverBackground": "#193254",
-		"notebook.cellInsertionIndicator": "#A1BBEC",
-		"notebook.cellStatusBarItemHoverBackground": "#193254",
-		"notebook.cellToolbarSeparator": "#1B3F6B",
-		"notebook.cellEditorBackground": "#17263E",
-		"notebook.focusedCellBackground": "#193254",
-		"notebook.focusedCellBorder": "#A1BBEC",
-		"notebook.focusedEditorBorder": "#A1BBEC",
-		"notebook.inactiveFocusedCellBorder": "#A1BBEC",
-		"notebook.inactiveSelectedCellBorder": "#A1BBEC",
-		"notebook.outputContainerBackgroundColor": "#17263E",
-		"notebook.outputContainerBorderColor": "#1B3F6B",
-		"notebook.selectedCellBackground": "#193254",
-		"notebook.selectedCellBorder": "#A1BBEC",
-		"notebook.symbolHighlightBackground": "#193254",
-		"notebookScrollbarSlider.activeBackground": "#193254",
-		"notebookScrollbarSlider.background": "#193254",
-		"notebookScrollbarSlider.hoverBackground": "#193254",
-		"notebookStatusErrorIcon.foreground": "#B53031",
-		"notebookStatusRunningIcon.foreground": "#0475CF",
-		"notebookStatusSuccessIcon.foreground": "#448700",
-		"notebookEditorOverviewRuler.runningCellForeground": "#0475CF",
-
-		// Chart colors
-		"charts.foreground": "#A1BBEC",
-		"charts.lines": "#A1BBEC",
-		"charts.red": "#d13438",
-		"charts.blue": "#0475CF",
-		"charts.yellow": "#ddff55",
-		"charts.orange": "#e0723a",
-		"charts.green": "#448700",
-		"charts.purple": "#47349b",
-
-		// Ports colors
-		"ports.iconRunningProcessForeground": "#0475CF"
 	},
 
 	// Token Colors (https://macromates.com/manual/en/language_grammars)
