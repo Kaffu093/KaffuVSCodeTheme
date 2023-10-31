@@ -82,3 +82,8 @@ All notable changes to this project will be documented in this file.
 ## 1.4.0
 
 - Changed colors of Mini Map Slider to be more visible
+
+## 2.0.0
+
+- Changed the system color from Material Design 3 to Fluent Design 2
+- Added Prettier support
