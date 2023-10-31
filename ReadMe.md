@@ -2,6 +2,8 @@
 
 My personal theme for Visual Studio Code, based on the blue color because it's my favorite color! 💙
 
+![Theme Preview](https://cappuccinotheme.blob.core.windows.net/images/CappuccinoVSCodeThemePreview.png)
+
 ## Compatibility 📋
 
 I have tested the theme with the majority of the languages that I use, but if you find any problem with the theme,

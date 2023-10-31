@@ -87,3 +87,7 @@ All notable changes to this project will be documented in this file.
 
 - Changed the system color from Material Design 3 to Fluent Design 2
 - Added Prettier support
+
+## 2.0.1
+
+- Added image preview to the ReadMe file

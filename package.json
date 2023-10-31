@@ -5,7 +5,7 @@
 	"description": "My own Visual Studio Code Theme!",
 	"publisher": "Cappuccino093",
 	"author": "Cappuccino093",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"engines": {
 		"vscode": "^1.83.1"
 	},
@@ -21,7 +21,7 @@
 		"color": "#0078d4",
 		"theme": "dark"
 	},
-	"icon": "./Images/Icon.png",
+	"icon": "Images/Icon.png",
 	"contributes": {
 		"themes": [
 			{
