@@ -91,3 +91,7 @@ All notable changes to this project will be documented in this file.
 ## 2.0.1
 
 - Added image preview to the ReadMe file
+
+## 2.0.2
+
+- Changed colors of the code to make them more comfortable to view

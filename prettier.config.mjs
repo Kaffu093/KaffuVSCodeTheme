@@ -1,6 +1,4 @@
-import { Options } from "prettier";
-
-/** @type { Options } */
+/** @type { import("prettier").Config } */
 const config = {
 	printWidth: 120,
 	tabWidth: 4,
