@@ -7,7 +7,7 @@ My personal theme for Visual Studio Code, based on the blue color because it's m
 ## Compatibility 📋
 
 I have tested the theme with the majority of the languages that I use, but if you find any problem with the theme,
-please open an issue or a pull request. See the [Contributing](ReadMe.md#contributing-🤝) section for more information.
+please open an issue or a pull request. See the [Contributing](#contributing-) section for more information.
 
 ## Contributing 🤝
 
@@ -21,7 +21,7 @@ If you want to open a pull request, you can follow the next steps:
 5. Open a Pull Request
 
 Also, I recommend you to use the appropriated tools that I used to create the theme,
-you can find them in the [Tools](ReadMe.md#tools-🛠️) section.
+you can find them in the [Tools](#tools-) section.
 
 This theme is under the MIT License, this means that you can use it for your own projects,
 if you want to give me credit, I would appreciate it.
@@ -48,9 +48,14 @@ This is a list of the tools that I used to create the theme:
     -   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
     -   [Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
+- Color Palette
+	- [Color Tokens](https://github.com/Cappuccino093/CappuccinoTheme/blob/Main/ColorTokens.jsonc) as color palette
+	- [Fluent Design 2 - Colors](https://react.fluentui.dev/?path=/docs/theme-colors--page) as color reference
+	- [Fluent Design 2 - Designer](https://react.fluentui.dev/?path=/docs/themedesigner--page) as color designer
+
 ## License 📄
 
-This project is under the MIT License, see [License File](./License.md) for more information.
+This project is under the MIT License, see [License File](License.md) for more information.
 
 ---
 
