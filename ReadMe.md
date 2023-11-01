@@ -30,26 +30,19 @@ if you want to give me credit, I would appreciate it.
 
 This is a list of the tools that I used to create the theme:
 
--   Operating System
-
-    -   [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) as my main OS
-
--   IDE/Text Editor
-
-    -   [Visual Studio Code](https://code.visualstudio.com/) as my main IDE/Text Editor and which the theme is for
-
--   NPM Packages
-
-    -   [Yo Code](https://github.com/microsoft/vscode-generator-code) to generate the template of the theme
-    -   [Visual Studio Code Extension Manager](https://github.com/microsoft/vscode-vsce) to manage the theme
-    -   [Prettier](https://github.com/prettier/prettier) to format the code
-
--   Extensions
-    -   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-    -   [Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
-
-- Color Palette
-	- [Color Tokens](https://github.com/Cappuccino093/CappuccinoTheme/blob/Main/ColorTokens.jsonc) as color palette
+- Software
+	-   [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) as my main OS
+	-   [Visual Studio Code](https://code.visualstudio.com/) as my main IDE/Text Editor and which the theme is for
+	-   [Git](https://git-scm.com) as the control version system
+- NPM Packages
+	-   [Yo Code](https://github.com/microsoft/vscode-generator-code) to generate the template of the theme
+	-   [Visual Studio Code Extension Manager](https://github.com/microsoft/vscode-vsce) to manage the theme
+	-   [Prettier](https://github.com/prettier/prettier) to format the code
+- Visual Studio Code Extensions
+	-   [Prettier Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) to format the code in Visual Studio Code
+	-   [Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- Theme colors and design
+	- [Color Tokens](https://github.com/Cappuccino093/CappuccinoTheme/blob/Main/ColorTokens.jsonc) of the main repository as color palette
 	- [Fluent Design 2 - Colors](https://react.fluentui.dev/?path=/docs/theme-colors--page) as color reference
 	- [Fluent Design 2 - Designer](https://react.fluentui.dev/?path=/docs/themedesigner--page) as color designer
 
