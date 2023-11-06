@@ -103,3 +103,7 @@ All notable changes to this project will be documented in this file.
 ## 2.0.4
 
 - Changed color of selected text to make it more visible
+
+## 2.0.5
+
+- Changed other colors to make them more consistent with the theme
