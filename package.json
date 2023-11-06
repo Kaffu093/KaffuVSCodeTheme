@@ -1,11 +1,11 @@
 {
-	"//": "------------------------- Extension Information -------------------------",
+	"//": "------------------------- Node.js Config -------------------------",
 	"name": "CappuccinoVSCodeTheme",
 	"displayName": "Cappuccino's Theme",
 	"description": "My own Visual Studio Code Theme!",
 	"publisher": "Cappuccino093",
 	"author": "Cappuccino093",
-	"version": "2.0.3",
+	"version": "2.0.4",
 	"engines": {
 		"vscode": "^1.83.1"
 	},
@@ -44,12 +44,10 @@
 	"pricing": "Free",
 	"preview": false,
 	"qna": "marketplace",
-	"//": "------------------------- Node.js Config -------------------------",
 	"scripts": {},
-	"dependencies": {},
 	"devDependencies": {
-		"vsce": "^1.97.0",
-		"prettier": "^3.0.3"
+		"prettier": "^3.0.3",
+		"vsce": "^1.103.1"
 	},
 	"type": "module"
 }
