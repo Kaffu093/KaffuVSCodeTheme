@@ -16,5 +16,8 @@
 				}
 			}
 		}
-	]
+	],
+	"files.eol": "\r\n",
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false
 }
