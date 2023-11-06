@@ -19,5 +19,6 @@
 	],
 	"files.eol": "\r\n",
 	"editor.insertSpaces": false,
-	"editor.detectIndentation": false
+	"editor.detectIndentation": false,
+	"prettier.requireConfig": true
 }
