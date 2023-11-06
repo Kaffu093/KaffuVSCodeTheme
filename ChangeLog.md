@@ -95,3 +95,7 @@ All notable changes to this project will be documented in this file.
 ## 2.0.2
 
 - Changed colors of the code to make them more comfortable to view
+
+## 2.0.3
+
+- Changed colors of icons to make them to match more with the theme and Fluent Design 2
