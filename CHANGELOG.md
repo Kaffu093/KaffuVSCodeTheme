@@ -118,3 +118,7 @@ All notable changes to this project will be documented in this file.
 ## 2.1.1
 
 - Fixed theme's name
+
+## 2.1.2
+
+- Changed colors of input placeholder
