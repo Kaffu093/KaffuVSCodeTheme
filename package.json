@@ -1,53 +1,53 @@
 {
-	"//": "------------------------- Node.js Config -------------------------",
-	"name": "cappuccino-vscode-theme",
-	"displayName": "Cappuccino's Theme",
-	"description": "My own Visual Studio Code Theme!",
-	"publisher": "Cappuccino093",
-	"author": "Cappuccino093",
-	"version": "2.0.7",
-	"engines": {
-		"vscode": "^1.84.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"keywords": [
-		"Theme",
-		"Blue",
-		"Fluent Design 2"
-	],
-	"galleryBanner": {
-		"color": "#0078d4",
-		"theme": "dark"
-	},
-	"icon": "images/icon.png",
-	"contributes": {
-		"themes": [
-			{
-				"label": "Cappuccino's Theme",
-				"uiTheme": "vs-dark",
-				"path": "./themes/cappuccino-vscode-color-theme.json"
-			}
-		]
-	},
-	"homepage": "https://cappuccino093.com/CappuccinoTheme/",
-	"bugs": {
-		"url": "https://github.com/Cappuccino093/CappuccinoVSCodeTheme/issues",
-		"email": "cappuccino@cappuccino093.com"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Cappuccino093/CappuccinoVSCodeTheme.git"
-	},
-	"license": "./LICENSE",
-	"pricing": "Free",
-	"preview": false,
-	"qna": "marketplace",
-	"scripts": {},
-	"devDependencies": {
-		"prettier": "^3.0.3",
-		"vsce": "^1.103.1"
-	},
-	"type": "module"
+  "//": "------------------------- Node.js Config -------------------------",
+  "name": "cappuccino-vscode-theme",
+  "displayName": "Cappuccino's Theme",
+  "description": "My own Visual Studio Code Theme!",
+  "publisher": "Cappuccino093",
+  "author": "Cappuccino093",
+  "version": "2.0.7",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Theme",
+    "Blue",
+    "Fluent Design 2"
+  ],
+  "galleryBanner": {
+    "color": "#0078d4",
+    "theme": "dark"
+  },
+  "icon": "images/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cappuccino's Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cappuccino-vscode-color-theme.json"
+      }
+    ]
+  },
+  "homepage": "https://cappuccino093.com/CappuccinoTheme/",
+  "bugs": {
+    "url": "https://github.com/Cappuccino093/CappuccinoVSCodeTheme/issues",
+    "email": "cappuccino@cappuccino093.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cappuccino093/CappuccinoVSCodeTheme.git"
+  },
+  "license": "./LICENSE",
+  "pricing": "Free",
+  "preview": false,
+  "qna": "marketplace",
+  "scripts": {},
+  "devDependencies": {
+    "prettier": "^3.0.3",
+    "vsce": "^1.103.1"
+  },
+  "type": "module"
 }
