@@ -2,22 +2,4 @@
 	"cSpell.words": [
 		"linebreak"
 	],
-	"json.schemas": [
-		{
-			"fileMatch": [
-				"package.json"
-			],
-			"url": "https://json.schemastore.org/package",
-			"schema": {
-				"properties": {
-					"name": {
-						"$comment": "suppress-name-warning"
-					}
-				}
-			}
-		}
-	],
-	"files.eol": "\r\n",
-	"editor.insertSpaces": false,
-	"editor.detectIndentation": false
 }
