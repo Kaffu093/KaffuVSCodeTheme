@@ -107,3 +107,14 @@ All notable changes to this project will be documented in this file.
 ## 2.0.5
 
 - Changed other colors to make them more consistent with the theme
+
+## 2.1.0
+
+- Refactored code and file names
+- Changed colors of input to make them more visible
+- Changed colors of errors and warnings
+- Changed colors of Git decorations
+
+## 2.1.1
+
+- Fixed theme's name
