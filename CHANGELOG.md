@@ -123,3 +123,7 @@ All notable changes to this project will be documented in this file.
 
 - Changed colors of input placeholder
 - Changed selection background color
+
+## 2.2.0
+
+- Final version of 2.2.0
