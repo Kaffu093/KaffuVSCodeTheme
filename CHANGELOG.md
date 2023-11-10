@@ -122,3 +122,4 @@ All notable changes to this project will be documented in this file.
 ## 2.1.2
 
 - Changed colors of input placeholder
+- Changed selection background color
