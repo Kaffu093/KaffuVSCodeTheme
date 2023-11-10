@@ -1,13 +1,13 @@
 {
 	"//": "------------------------- Node.js Config -------------------------",
-	"name": "CappuccinoVSCodeTheme",
+	"name": "cappuccino-vscode-theme",
 	"displayName": "Cappuccino's Theme",
 	"description": "My own Visual Studio Code Theme!",
 	"publisher": "Cappuccino093",
 	"author": "Cappuccino093",
-	"version": "2.0.5",
+	"version": "2.0.6",
 	"engines": {
-		"vscode": "^1.83.1"
+		"vscode": "^1.84.0"
 	},
 	"categories": [
 		"Themes"
@@ -21,13 +21,13 @@
 		"color": "#0078d4",
 		"theme": "dark"
 	},
-	"icon": "Images/Icon.png",
+	"icon": "images/icon.png",
 	"contributes": {
 		"themes": [
 			{
 				"label": "Cappuccino's Theme",
 				"uiTheme": "vs-dark",
-				"path": "./Themes/CappuccinoTheme.json"
+				"path": "./themes/cappuccino-vscode-color-theme.json"
 			}
 		]
 	},
@@ -40,7 +40,7 @@
 		"type": "git",
 		"url": "https://github.com/Cappuccino093/CappuccinoVSCodeTheme.git"
 	},
-	"license": "./License.md",
+	"license": "./LICENSE",
 	"pricing": "Free",
 	"preview": false,
 	"qna": "marketplace",
