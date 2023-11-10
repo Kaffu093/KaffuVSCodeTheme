@@ -5,7 +5,7 @@
   "description": "My own Visual Studio Code Theme!",
   "publisher": "Cappuccino093",
   "author": "Cappuccino093",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "engines": {
     "vscode": "^1.84.0"
   },
