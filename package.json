@@ -3,7 +3,7 @@
   "name": "cappuccino-vscode-theme",
   "displayName": "Cappuccino's Theme",
   "description": "My own Visual Studio Code Theme!",
-  "publisher": "Cappuccino093",
+  "publisher": "cappuccino093",
   "author": "Cappuccino093",
   "version": "2.0.7",
   "engines": {
@@ -27,18 +27,18 @@
       {
         "label": "Cappuccino's Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/cappuccino-vscode-color-theme.json"
+        "path": "./themes/cappuccino-color-theme.json"
       }
     ]
   },
-  "homepage": "https://cappuccino093.com/CappuccinoTheme/",
+  "homepage": "https://cappuccino093.com/cappuccino-theme/",
   "bugs": {
-    "url": "https://github.com/Cappuccino093/CappuccinoVSCodeTheme/issues",
+    "url": "https://github.com/cappuccino093/cappuccino-vs-code-theme/issues",
     "email": "cappuccino@cappuccino093.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Cappuccino093/CappuccinoVSCodeTheme.git"
+    "url": "https://github.com/cappuccino093/cappuccino-vs-code-theme.git"
   },
   "license": "./LICENSE",
   "pricing": "Free",
