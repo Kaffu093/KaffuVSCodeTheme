@@ -1,0 +1,13 @@
+{
+	"files.eol": "\r\n",
+	"editor.insertSpaces": false,
+	"cSpell.words": [
+		"ansi",
+		"ecma",
+		"linebreak",
+		"readwrite",
+		"Stackframe",
+		"vsix"
+	],
+	"eslint.validate": ["json"]
+}

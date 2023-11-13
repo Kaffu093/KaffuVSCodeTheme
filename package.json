@@ -1,0 +1,56 @@
+{
+	"$schema": "vscode://schemas/vscode-extensions",
+	"name": "CappuccinoVSCodeTheme",
+	"displayName": "Cappuccino's Theme",
+	"description": "My own Visual Studio Code Theme!",
+	"publisher": "Cappuccino",
+	"author": "Cappuccino",
+	"version": "2.3.3",
+	"engines": {
+		"vscode": "^1.84.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Theme",
+		"Blue",
+		"Fluent Design 2"
+	],
+	"galleryBanner": {
+		"color": "#0078d4",
+		"theme": "dark"
+	},
+	"icon": "Images/Icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Cappuccino's Theme",
+				"uiTheme": "vs-dark",
+				"path": "./Themes/CappuccinoTheme.json"
+			}
+		]
+	},
+	"homepage": "https://cappuccino093.com/CappuccinoTheme/",
+	"bugs": {
+		"url": "https://github.com/Cappuccino093/CappuccinoVSCodeTheme/issues",
+		"email": "cappuccino@cappuccino093.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Cappuccino093/CappuccinoVSCodeTheme.git"
+	},
+	"license": "./License.md",
+	"pricing": "Free",
+	"preview": false,
+	"qna": "marketplace",
+	"scripts": {},
+	"devDependencies": {
+		"eslint": "^8.53.0",
+		"eslint-plugin-json": "^3.1.0",
+		"markdownlint": "^0.31.1",
+		"prettier": "^3.0.3",
+		"vsce": "^1.103.1"
+	},
+	"type": "module"
+}
