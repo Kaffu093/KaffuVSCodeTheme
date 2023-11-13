@@ -4,7 +4,9 @@ This is my personal Visual Studio Code theme, based on the blue color because it
 
 ## Compatibility 📋
 
-I use this theme as my personal and main theme in my projects, so I try to make it compatible with the most used languages and frameworks. But if you find some issues with the theme, you can open an issue or a pull request, I'll be so grateful!
+I use this theme as my personal and main theme in my projects, so I try to make it compatible with the most used
+languages and frameworks. But if you find some issues with the theme, you can open an issue or a pull request,
+I'll be so grateful!
 
 ## Tools 🛠️
 
@@ -43,7 +45,9 @@ I use this theme as my personal and main theme in my projects, so I try to make 
 
 ### Through the Visual Studio Code Marketplace 📦
 
--   Open the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/) and search for `Cappuccino Theme` or go to the [Cappuccino's Theme](https://marketplace.visualstudio.com/items?itemName=Cappuccino093.CappuccinoVSCodeTheme) page
+-   Open the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/) and search for `Cappuccino Theme`
+    or go to the [Cappuccino's Theme](https://marketplace.visualstudio.com/items?itemName=Cappuccino093.CappuccinoVSCodeTheme)
+    page
 -   Click on the `Install` button
 -   Click on the `Reload` button
 -   Go to `File > Preferences > Color Theme` and select `Cappuccino Theme`

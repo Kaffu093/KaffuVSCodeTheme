@@ -139,3 +139,8 @@ All notable changes to this project will be documented in this file.
 ## 2.3.2
 
 -   Fixed fatal error that prevented to show the icon of the theme in the marketplace
+
+## 2.3.3
+
+-   Added files to linting and formatting
+-   Refactored code
