@@ -3,7 +3,7 @@
 	"name": "CappuccinoVSCodeTheme",
 	"displayName": "Cappuccino's Theme",
 	"description": "My own Visual Studio Code Theme!",
-	"publisher": "Cappuccino",
+	"publisher": "Cappuccino093",
 	"author": "Cappuccino",
 	"version": "2.3.3",
 	"engines": {
@@ -46,11 +46,11 @@
 	"qna": "marketplace",
 	"scripts": {},
 	"devDependencies": {
+		"@vscode/vsce": "^2.22.0",
 		"eslint": "^8.53.0",
 		"eslint-plugin-json": "^3.1.0",
 		"markdownlint": "^0.31.1",
-		"prettier": "^3.0.3",
-		"vsce": "^1.103.1"
+		"prettier": "^3.0.3"
 	},
 	"type": "module"
 }
