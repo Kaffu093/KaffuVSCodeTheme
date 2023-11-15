@@ -144,3 +144,7 @@ All notable changes to this project will be documented in this file.
 
 -   Added files to linting and formatting
 -   Refactored code
+
+## 2.3.4
+
+-   Fixed background color of information, warning and error navigation markers
