@@ -148,3 +148,7 @@ All notable changes to this project will be documented in this file.
 ## 2.3.4
 
 -   Fixed background color of information, warning and error navigation markers
+
+## 2.3.5
+
+-   Changed menu and menubar selection background colors
