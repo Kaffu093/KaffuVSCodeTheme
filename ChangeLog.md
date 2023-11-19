@@ -152,3 +152,11 @@ All notable changes to this project will be documented in this file.
 ## 2.3.5
 
 -   Changed menu and menubar selection background colors
+
+## 2.3.6
+
+-   Changed colors of exception widget
+
+## 2.3.7
+
+-   Fixed border color of the exception widget
