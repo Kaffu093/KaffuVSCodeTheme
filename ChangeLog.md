@@ -169,3 +169,8 @@ All notable changes to this project will be documented in this file.
 ## 2.3.9
 
 -   Fixed selection background colors
+
+## 2.4.0
+
+-   Changed various colors
+-   Fixed another colors to make them more visible

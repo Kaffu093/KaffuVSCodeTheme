@@ -9,5 +9,11 @@
 		"Stackframe",
 		"vsix"
 	],
-	"eslint.validate": ["json"]
+	"eslint.validate": ["json"],
+	"eslint.rules.customizations": [
+		{
+			"rule": "*",
+			"severity": "warn"
+		}
+	]
 }
