@@ -165,3 +165,7 @@ All notable changes to this project will be documented in this file.
 
 -   Fixed list background colors
 -   Fixed input colors
+
+## 2.3.9
+
+-   Fixed selection background colors
