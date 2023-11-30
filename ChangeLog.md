@@ -174,3 +174,11 @@ All notable changes to this project will be documented in this file.
 
 -   Changed various colors
 -   Fixed another colors to make them more visible
+
+## 2.4.1
+
+-   Fixed Visual Studio version display name
+
+## 2.4.2
+
+-   Changed color of selection background to make it less bright
