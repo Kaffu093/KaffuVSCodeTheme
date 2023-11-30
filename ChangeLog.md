@@ -186,3 +186,11 @@ All notable changes to this project will be documented in this file.
 ## 2.4.3
 
 -   Changed color of selection background to make it less bright
+
+## 2.4.4
+
+-   Changed color of selection background to make it less bright
+
+## 2.4.5
+
+-   Changed color of selection background to make it less bright
