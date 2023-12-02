@@ -198,3 +198,7 @@ All notable changes to this project will be documented in this file.
 ## 2.4.6
 
 - Changed color of tabs
+
+## 3.0.0
+
+- Independency of Visual Studio Theme Converter
