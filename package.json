@@ -27,7 +27,7 @@
 			{
 				"label": "Cappuccino's Theme",
 				"uiTheme": "vs-dark",
-				"path": "./Themes/CappuccinoTheme.json"
+				"path": "./Themes/CappuccinoTheme-color-theme.json"
 			}
 		]
 	},
