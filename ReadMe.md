@@ -4,7 +4,7 @@ This is my personal Visual Studio Code theme, based on the blue color because it
 
 ## Preview 📷
 
-![Preview](https://cappuccinotheme.blob.core.windows.net/images/CappuccinoVSCodeThemePreview.png)
+![Preview](https://storage.googleapis.com/cappuccino-theme/previews/CappuccinoVSCodeTheme.png)
 
 ## Compatibility 📋
 
