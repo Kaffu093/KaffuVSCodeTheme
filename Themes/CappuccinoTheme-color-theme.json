@@ -472,9 +472,9 @@
 		"statusBarItem.compactHoverBackground": "#193254",
 		"statusBarItem.focusBorder": "#00000000",
 
-		"titleBar.activeBackground": "#17263E",
+		"titleBar.activeBackground": "#193254",
 		"titleBar.activeForeground": "#A1BBEC",
-		"titleBar.inactiveBackground": "#17263E",
+		"titleBar.inactiveBackground": "#193254",
 		"titleBar.inactiveForeground": "#A1BBEC",
 		"titleBar.border": "#1B3F6B",
 
@@ -482,7 +482,7 @@
 		"menubar.selectionBackground": "#1B3F6B",
 		"menubar.selectionBorder": "#00000000",
 		"menu.foreground": "#A1BBEC",
-		"menu.background": "#17263E",
+		"menu.background": "#193254",
 		"menu.selectionForeground": "#A1BBEC",
 		"menu.selectionBackground": "#1B3F6B",
 		"menu.selectionBorder": "#00000000",
