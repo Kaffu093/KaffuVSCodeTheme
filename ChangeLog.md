@@ -231,3 +231,7 @@ All notable changes to this project will be documented in this file.
 ## 3.2.0
 
 - Changed various colors of the theme in general
+
+## 3.2.1
+
+- Fixed color of Breadcrumb

@@ -171,7 +171,7 @@
 		"editorGroup.dropBackground": "#1B3F6B7F",
 		"editorGroupHeader.noTabsBackground": "#193254",
 		"editorGroupHeader.tabsBackground": "#17263E",
-		"editorGroupHeader.tabsBorder": "#00000000",
+		"editorGroupHeader.tabsBorder": "#1B3F6B",
 		"editorGroupHeader.border": "#1B3F6B",
 		"editorGroup.emptyBackground": "#193254",
 		"editorGroup.focusedEmptyBorder": "#00000000",
@@ -510,12 +510,12 @@
 
 		// Menu Bar Colors
 		"menubar.selectionForeground": "#A1BBEC",
-		"menubar.selectionBackground": "#1B3F6B",
+		"menubar.selectionBackground": "#1B4C83",
 		"menubar.selectionBorder": "#00000000",
 		"menu.foreground": "#A1BBEC",
 		"menu.background": "#17263E",
 		"menu.selectionForeground": "#A1BBEC",
-		"menu.selectionBackground": "#1B3F6B",
+		"menu.selectionBackground": "#1B4C83",
 		"menu.selectionBorder": "#00000000",
 		"menu.separatorBackground": "#1B3F6B",
 		"menu.border": "#1B3F6B",
@@ -703,7 +703,7 @@
 
 		// Breadcrumbs Colors
 		"breadcrumb.foreground": "#A1BBEC",
-		"breadcrumb.background": "#193254",
+		"breadcrumb.background": "#17263E",
 		"breadcrumb.focusForeground": "#A1BBEC",
 		"breadcrumb.activeSelectionForeground": "#A1BBEC",
 		"breadcrumbPicker.background": "#17263E",
