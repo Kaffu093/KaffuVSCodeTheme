@@ -221,4 +221,13 @@ All notable changes to this project will be documented in this file.
 
 ## 3.0.5
 
-- Changed background colors
+- Changed background colors of the JetBrains Theme
+
+## 3.1.6
+
+- Changed version because of the JetBrains Theme addition
+- Reverted some background colors
+
+## 3.2.0
+
+- Changed various colors of the theme in general
