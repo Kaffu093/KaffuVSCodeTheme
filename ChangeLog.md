@@ -235,3 +235,7 @@ All notable changes to this project will be documented in this file.
 ## 3.2.1
 
 - Fixed color of Breadcrumb
+
+## 3.2.2
+
+- Fixed various colors
