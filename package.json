@@ -1,13 +1,13 @@
 {
 	"$schema": "vscode://schemas/vscode-extensions",
-	"name": "CappuccinoVSCodeTheme",
-	"displayName": "Cappuccino's Theme",
+	"name": "KaffuVSCodeTheme",
+	"displayName": "Kaffu's Theme",
 	"description": "My own Visual Studio Code Theme!",
-	"publisher": "Cappuccino093",
-	"author": "Cappuccino",
-	"version": "3.3.3",
+	"publisher": "Kaffu093",
+	"author": "Kaffu",
+	"version": "4.0.0",
 	"engines": {
-		"vscode": "^1.84.0"
+		"vscode": "^1.89.0"
 	},
 	"categories": [
 		"Themes"
@@ -25,20 +25,20 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Cappuccino's Theme",
+				"label": "Kaffu's Theme",
 				"uiTheme": "vs-dark",
-				"path": "./Themes/CappuccinoTheme.json"
+				"path": "./Themes/KaffuTheme.json"
 			}
 		]
 	},
-	"homepage": "https://cappuccino093.com/CappuccinoTheme/",
+	"homepage": "https://Kaffu093.com/KaffuTheme/",
 	"bugs": {
-		"url": "https://github.com/Cappuccino093/CappuccinoVSCodeTheme/issues",
-		"email": "cappuccino@cappuccino093.com"
+		"url": "https://github.com/Kaffu093/KaffuVSCodeTheme/issues",
+		"email": "Kaffu@Kaffu093.com"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Cappuccino093/CappuccinoVSCodeTheme.git"
+		"url": "https://github.com/Kaffu093/KaffuVSCodeTheme.git"
 	},
 	"license": "./License.md",
 	"pricing": "Free",
@@ -46,8 +46,13 @@
 	"qna": "marketplace",
 	"scripts": {},
 	"devDependencies": {
-		"@vscode/vsce": "^2.22.0",
-		"markdownlint": "^0.31.1"
+		"@eslint/js": "^9.3.0",
+		"@vscode/vsce": "^2.26.1",
+		"eslint": "^9.3.0",
+		"eslint-plugin-json": "^4.0.0",
+		"globals": "^15.3.0",
+		"markdownlint": "^0.34.0",
+		"prettier": "^3.2.5"
 	},
 	"type": "module"
 }

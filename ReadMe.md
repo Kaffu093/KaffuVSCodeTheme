@@ -1,10 +1,10 @@
-# Cappuccino's Theme! ☕
+# Kaffu's Theme! ☕
 
 This is my personal Visual Studio Code theme, based on the blue color because it's my favorite color. I hope you like it!
 
 ## Preview 📷
 
-![Preview](https://storage.googleapis.com/cappuccino-theme/previews/CappuccinoVSCodeTheme.png)
+![Preview](https://storage.googleapis.com/kaffu-theme/Images/KaffuVSCodeThemePreview.png)
 
 ## Compatibility 📋
 
@@ -49,22 +49,22 @@ I'll be so grateful!
 
 ### Through the Visual Studio Code Marketplace 📦
 
-- Open the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/vscode) and search for `Cappuccino's Theme`
-    or go to the [Cappuccino's Theme](https://marketplace.visualstudio.com/items?itemName=Cappuccino093.CappuccinoVSCodeTheme)
+- Open the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/vscode) and search for `Kaffu's Theme`
+    or go to the [Kaffu's Theme](https://marketplace.visualstudio.com/items?itemName=Kaffu093.KaffuVSCodeTheme)
     page.
 - Click on the `Install` button.
 - Click on the `Reload` button.
-- Go to `File > Preferences > Color Theme` and select `Cappuccino Theme`.
+- Go to `File > Preferences > Color Theme` and select `Kaffu Theme`.
 
 ### Through the VSIX File 📦
 
-- Download the [.vsix](https://github.com/Cappuccino093/CappuccinoVSCodeTheme/releases) from the releases section.
+- Download the [.vsix](https://github.com/Kaffu093/KaffuVSCodeTheme/releases) from the releases section.
 - Open Visual Studio Code.
 - Go to `File > Preferences > Extensions`.
 - Click on the `...` button and select `Install from VSIX...`.
 - Select the `.vsix` file.
 - Click on the `Reload` button.
-- Go to `File > Preferences > Color Theme` and select `Cappuccino Theme`.
+- Go to `File > Preferences > Color Theme` and select `Kaffu Theme`.
 
 ## Contributing 🤝
 
@@ -72,7 +72,7 @@ If you think that this theme needs more languages or some changes, you can open 
 
 If you want to open an issue, you can follow the next steps:
 
-- Go to the [issues](https://github.com/Cappuccino093/CappuccinoVSCodeTheme/issues) section.
+- Go to the [issues](https://github.com/Kaffu093/KaffuVSCodeTheme/issues) section.
 - Click on the `New issue` button.
 - Fill the form with the information of the issue.
 - Click on the `Submit new issue` button.

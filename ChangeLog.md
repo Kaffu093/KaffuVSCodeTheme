@@ -263,3 +263,7 @@ All notable changes to this project will be documented in this file.
 ## 3.3.3
 
 - Fixed Title bar colors in Visual Studio Code
+
+## 4.0.0
+
+- Changed the name of the Visual Studio Code theme to "Kaffu's Theme"
