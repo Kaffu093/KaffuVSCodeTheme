@@ -267,3 +267,7 @@ All notable changes to this project will be documented in this file.
 ## 4.0.0
 
 - Changed the name of the Visual Studio Code theme to "Kaffu's Theme"
+
+## 4.0.1
+
+- Fixed the Preview image in the ReadMe file
